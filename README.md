@@ -1,6 +1,11 @@
-Binary Tree is defined as a tree data structure where each node has at most 2 children. Since each element in a binary tree can have only 2 children, we typically name them the left and right child.
+Resources
+Read or watch:
 
-
+Binary tree (note the first line: Not to be confused with B-tree.)
+Data Structure and Algorithms - Tree
+Tree Traversal
+Binary Search Tree
+Data structures: Binary Tree
 Learning Objectives
 At the end of this project, you are expected to be able to explain to anyone, without the help of Google:
 
@@ -30,3 +35,5 @@ In the following examples, the main.c files are shown as examples. You can use t
 The prototypes of all your functions should be included in your header file called binary_trees.h
 Don’t forget to push your header file
 All your header files should be include guarded
+
+LEVY LUBINDA
